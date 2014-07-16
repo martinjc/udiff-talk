@@ -7,3 +7,4 @@ node_modules/
 reveal/*
 .travis.yml
 codekit-config.*
+img/
