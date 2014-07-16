@@ -4,11 +4,6 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
-css/*
-js/*
-lib/*
-plugin/*
-test/*
-package.json
-Gruntfile.js
-*.yml
+reveal/*
+.travis.yml
+codekit-config.*
